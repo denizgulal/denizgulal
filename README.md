@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Deniz Gülal</h1>
+<h1 align="center"> I'm Deniz Gülal</h1>
 - 🌱 I’m currently learning **Stable Diffusion Models**
 
 - 📫 How to reach me **dgulal20@ku.edu.tr**
