@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center"> I'm Deniz Gülal</h1>
+<h1 align="center"> I'm Deniz </h1>
 - 🌱 My focus lies in exploring the nexus of linear systems, signal processing, computer vision, and machine learning to develop robust systems. By harnessing mathematical models and computational techniques, I aim to delve into these interdisciplinary areas to resolve complexities related to data sparcity, especially in algorithmic systems involving self-supervision and computer vision tasks. By integrating mathematical foundations with machine learning advancements, I aim to contribute to the creation of adaptable and efficient algorithmic systems capable of performing intricate visual tasks across various domains.
 
 - 📫 How to reach me **dgulal20@ku.edu.tr**
